@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ["eslint-config/react-internal.js"],
+  extends: ["eslint-config/library.js"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
     project: true,
