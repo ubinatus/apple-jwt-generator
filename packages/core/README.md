@@ -21,7 +21,7 @@ pnpm install apple-jwt-generator
 ```
 
 ```bash
-bun install apple-jwt-generator
+bun add apple-jwt-generator
 ```
 
 ## Usage
