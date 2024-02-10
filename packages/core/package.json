@@ -1,6 +1,20 @@
 {
   "name": "apple-jwt-generator",
   "version": "1.0.0",
+  "description": "Generates Apple Client Secret for Sign in with Apple (SIWA) authentication.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubinatus/apple-jwt-generator.git",
+    "directory": "packages/core"
+  },
+  "keywords": [
+    "apple",
+    "jwt",
+    "siwa",
+    "oauth"
+  ],
+  "author": "ubinatus",
+  "homepage": "https://apple-jwt-generator.vercel.app",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
