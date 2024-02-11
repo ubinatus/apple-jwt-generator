@@ -32,4 +32,9 @@ export type AppleJWTConfig = {
    * @default 15778476 Six months.
    */
   expiresIn?: number;
+  /**
+   * Timestamp of the expiration in seconds
+   * @dev If `expiresAt` is defined, the argument `expiresIn` will be ignored.
+   */
+  expiresAt?: number;
 };
