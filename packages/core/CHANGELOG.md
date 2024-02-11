@@ -1,5 +1,11 @@
 # apple-jwt-generator
 
+## 1.1.1
+
+### Patch Changes
+
+- 8b74367: Add key ID to signing options
+
 ## 1.1.0
 
 ### Minor Changes
